@@ -1,0 +1,8 @@
+# SAMPLE DATA — NOT A REAL COMPANY. Replace these rows with your company's figures.
+# Money columns are in ₹ crore; shares_outstanding is in crore shares. Lines starting with # are ignored.
+# Required: fy, revenue, net_profit, total_equity. Leave other cells blank if unknown.
+fy,revenue,ebitda,ebit,interest_expense,net_profit,total_assets,total_equity,total_debt,current_assets,current_liabilities,operating_cash_flow,capex,shares_outstanding
+FY2022,12500,2750,2250,180,1500,16000,9000,3200,6800,4500,1650,-600,50
+FY2023,14100,3150,2600,190,1750,17800,10300,3000,7400,4900,1900,-700,50
+FY2024,15600,3500,2900,170,1980,19500,11800,2600,8100,5300,2150,-750,50
+FY2025,17200,3900,3250,150,2250,21400,13500,2100,8900,5700,2400,-820,50
